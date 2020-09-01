@@ -1,27 +1,27 @@
 # These data will be shown in /about page and every page footer
 # Replace these with your own personal info
 
-name: "YOUR NAME"
-job: "Job Title"
-hi: "HIYA!"
+name: "海南昇禾农业科技发展有限公司"
+job: "农药销售&技术服务"
+hi: "欢迎咨询"
 avatar_img: "/assets/img/me.png" # path to your avatar
 intro:
-  - "Some thing about yourself"
-  - "Can have multiple lines"
+  - "专业蔬果种植技术服务，农药肥料销售"
+  # - "Can have multiple lines"
 skills:
   - name: "Programming"
     icon-class: "fa fa-terminal"
-    list: ["PHP", "Python", "Shell", "C", "SQL"]
+    list: ["农药批发", "农药零售", "农作物种子经营"]
   - name: "Framework"
     icon-class: "fa fa-th-list"
-    list: ["Laravel / Lumen", "ThinkPHP", "Yii", "Flask"]
+    list: ["肥料批发", "肥料零售"]
   - name: "Tools"
     icon-class: "fa fa-cogs"
-    list: ["Linux", "Docker", "Git", "SublimeText"]
+    list: ["技术开发", "技术咨询", "技术交流", "技术转让", "技术推广"]
 
-display_name: "YOUR NAME"
+display_name: "ShengHeNongYe"
 contact:
-  - {name: "Mobile", icon-class: "fa fa-phone-square", text: "123 4567 8910", link: "tel: 123 4567 8010"}
-  - {name: "Email", icon-class: "fa fa-envelope", text: "example@example.com", link: "mailto: example@example.com"}
+  - {name: "Mobile", icon-class: "fa fa-phone-square", text: "13976520629", link: "tel: 13976520629"}
+  - {name: "Email", icon-class: "fa fa-envelope", text: "shenghny@163.com", link: "mailto: shenghny@163.com"}
 social:
-  - {name: "GitHub", icon-class: "fa fa-github-square", text: "https://github.com", link: "https://github.com"}
+  - {name: "GitHub", icon-class: "fa fa-github-square", text: "https://shenghny.com", link: "https://shenghny.com"}
